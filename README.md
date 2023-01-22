@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manikanda Prabhu P
 - 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Oracle SQL, PL/SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prabhukennedy1999@gmail.com
 
